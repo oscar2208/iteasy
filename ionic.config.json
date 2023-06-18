@@ -1,0 +1,7 @@
+{
+  "name": "iteasy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
