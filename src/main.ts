@@ -10,3 +10,12 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.log(err));
+
+
+/*   const connection = mysql.createConnection({
+    host: 'localhost',
+    user: '',
+    password: '12345',
+    database: 'iteasy'
+  });
+ */
